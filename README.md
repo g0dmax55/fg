@@ -1,305 +1,250 @@
-# Daily Life Tracker - 2025
+# Daily Entry - [DATE]
+
+**Day:** [Monday/Tuesday/etc.] | **Weather:** [Sunny/Rainy/etc.] ☀️
 
 ---
 
-## 📅 November 29, 2025
-
-### 💰 Daily Expenses
+## 💰 Daily Expenses
 
 | Time | Category | Description | Amount |
 |------|----------|-------------|--------|
-| 09:00 | Food | Breakfast - Coffee & Toast | $5.50 |
-| 12:30 | Food | Lunch at office | $8.75 |
-| 14:00 | Transport | Uber to office | $6.50 |
-| 18:00 | Entertainment | Movie ticket | $12.00 |
-| 19:00 | Food | Dinner | $15.00 |
+| 09:00 | Food | Breakfast - Coffee & Toast | $0.00 |
+| 12:30 | Food | Lunch | $0.00 |
+| 18:00 | Food | Dinner | $0.00 |
+| 00:00 | Transport | [Description] | $0.00 |
+| 00:00 | Entertainment | [Description] | $0.00 |
+| 00:00 | Shopping | [Description] | $0.00 |
+| 00:00 | Health | [Description] | $0.00 |
+| 00:00 | Utilities | [Description] | $0.00 |
+| 00:00 | Other | [Description] | $0.00 |
 
-**Daily Total: $47.75**
+**Daily Total: $0.00**
+
+### Category Breakdown
+
+| Category | Amount | Budget | Status |
+|----------|--------|--------|--------|
+| Food | $0.00 | $20.00 | ✅ |
+| Transport | $0.00 | $10.00 | ✅ |
+| Entertainment | $0.00 | $15.00 | ✅ |
+| Other | $0.00 | $5.00 | ✅ |
+| **TOTAL** | **$0.00** | **$50.00** | ✅ |
 
 #### Expenses by Category (Today)
-
 ```mermaid
 pie title Daily Expenses Breakdown
-    "Food" : 29.25
-    "Transport" : 6.50
-    "Entertainment" : 12.00
+    "Food" : 0
+    "Transport" : 0
+    "Entertainment" : 0
+    "Shopping" : 0
+    "Health" : 0
+    "Other" : 0
 ```
 
 ---
 
-### ⏰ Work Hours Log
+## ⏰ Work Hours Log
 
-**Target:** 8 hours
-**Actual:** 8.5 hours ✅
+**Target:** 8 hours  
+**Actual:** 0 hours ⏳
 
-| Time | Activity |
-|------|----------|
-| 09:00 - 09:30 | Morning standup |
-| 09:30 - 12:00 | Project development - feature X |
-| 12:00 - 13:00 | Lunch break |
-| 13:00 - 17:00 | Bug fixes and testing |
-| 17:00 - 17:30 | Code review |
+### Time Log
 
-**Tasks Completed:**
-- ✅ Completed API integration
-- ✅ Fixed 3 critical bugs
-- ✅ Reviewed team PRs
-- ⏳ Started documentation (incomplete)
+| Time | Activity | Duration |
+|------|----------|----------|
+| 09:00 - 09:30 | Morning standup | 30 min |
+| 09:30 - 12:00 | [Task/Project] | 2.5 hrs |
+| 12:00 - 13:00 | Lunch break | 1 hr |
+| 13:00 - 17:00 | [Task/Project] | 4 hrs |
+| 17:00 - 17:30 | [Activity] | 30 min |
 
-**Notes:**
-- Had a productive morning session
-- Great collaboration with team on bug fixes
-- Need to prioritize documentation tomorrow
+**Total Work Hours:** 0h  
+**Break Time:** 0h  
+**Overtime:** 0h
 
----
+### Tasks Completed
 
-### 📝 Full Day Journal
+- [ ] Task 1 - [Description]
+- [ ] Task 2 - [Description]
+- [ ] Task 3 - [Description]
+- [ ] Task 4 - [Description]
+- [ ] Task 5 - [Description]
 
-**Mood: 7/10** 😊
+**Completion Rate:** 0/5 (0%)
 
-**Today's Summary:**
-Today was a productive day overall. I started with a good morning standup where we aligned on priorities. The morning coding session was really focused - I managed to complete the API integration feature that was blocked last week. After lunch, I found and fixed three critical bugs that the QA team reported. Had a productive code review session with my colleague. By end of day, I felt good about the progress but also realized I need better time management for documentation.
+### Work Notes
 
-**Highlights:**
-✨ Successfully integrated the payment API - this feature was crucial for the project
-✨ Good team collaboration when debugging issues
-✨ Completed the morning task 30 minutes ahead of schedule
+**What I worked on:**
+- [Project/Task 1]
+- [Project/Task 2]
+- [Bug fixes, meetings, etc.]
 
-**Challenges:**
-- Got interrupted by meetings in afternoon
-- Didn't complete documentation as planned
-- Felt slightly tired by 5 PM
+**Blockers/Challenges:**
+- [Any issues faced today]
 
-**Learning:**
-- Breaking tasks into smaller chunks helps with focus
-- Asking for help saves debugging time
-- Documentation should be prioritized earlier in the day
-
-**Personal Reflection:**
-I'm satisfied with today's work. The feeling of resolving bugs and getting features working is rewarding. I need to be more intentional about my schedule tomorrow.
+**Tomorrow's Priority:**
+- [What needs to be done next]
 
 ---
 
-### 📊 Key Metrics
+## 📝 Full Day Journal
 
-| Metric | Value | Status |
-|--------|-------|--------|
-| Work Hours | 8.5h / 8h | ✅ Above Target |
-| Daily Expenses | $47.75 | 💰 Within budget |
-| Mood | 7/10 | 😊 Good |
-| Productivity Score | 8/10 | ⭐ High |
-| Tasks Completed | 4/5 | 80% |
-| Sleep Hours | 7h | 😴 Adequate |
+**Mood: 5/10** 😐
 
----
+### Today's Summary
 
-## 📈 Weekly Summary (Nov 24-29)
+[Write a brief overview of how your day went. What happened? How did you feel? What was the overall experience?]
 
-### Work Hours Trend
+### Highlights ✨
 
-```mermaid
-bar
-    title Weekly Work Hours
-    x-axis [Mon, Tue, Wed, Thu, Fri, Sat]
-    y-axis "Hours" 0 --> 9
-    bar [8.0, 8.5, 7.5, 8.2, 8.5, 4.0]
-```
+- [Best moment 1]
+- [Best moment 2]
+- [Best moment 3]
 
-### Weekly Expenses by Category
+### Challenges ⚠️
 
-```mermaid
-pie title Weekly Expenses Breakdown
-    "Food" : 180.50
-    "Transport" : 45.00
-    "Entertainment" : 35.00
-    "Utilities" : 25.00
-    "Shopping" : 65.00
-    "Health" : 30.00
-    "Other" : 20.00
-```
+- [Challenge 1 and how you handled it]
+- [Challenge 2]
+- [Challenge 3]
 
-### Mood Trend
+### Learnings 📚
 
-```mermaid
-line
-    title Weekly Mood Tracking
-    x-axis [Mon, Tue, Wed, Thu, Fri, Sat]
-    y-axis "Mood Score (1-10)" 0 --> 10
-    line [6, 7, 5, 7, 8, 7]
-```
+- [What you learned today]
+- [New skill or insight gained]
+- [Mistake and lesson learned]
 
-### Weekly Statistics Table
+### Personal Reflection 💭
 
-| Day | Work Hours | Expenses | Mood | Productivity |
-|-----|-----------|----------|------|--------------|
-| Monday | 8.0h | $35.50 | 6/10 | 7/10 |
-| Tuesday | 8.5h | $42.75 | 7/10 | 8/10 |
-| Wednesday | 7.5h | $38.00 | 5/10 | 6/10 |
-| Thursday | 8.2h | $45.00 | 7/10 | 8/10 |
-| Friday | 8.5h | $50.25 | 8/10 | 9/10 |
-| Saturday | 4.0h | $20.50 | 7/10 | 5/10 |
-| **Total** | **44.7h** | **$232.00** | **6.7/10** | **7.2/10** |
+[Deeper thoughts about the day. How are you feeling? What are you thinking about? What could have been better?]
+
+### Gratitude 🙏
+
+Today I'm grateful for:
+1. [Thing 1]
+2. [Thing 2]
+3. [Thing 3]
 
 ---
 
-## 📅 Monthly Overview (November 2025)
+## 💪 Health & Wellness
 
-### Monthly Expenses Trend
+### Physical Activity
 
-```mermaid
-line
-    title Monthly Daily Spending
-    x-axis [Nov 1, Nov 5, Nov 10, Nov 15, Nov 20, Nov 25, Nov 29]
-    y-axis "Daily Spend ($)" 0 --> 100
-    line [38, 42, 45, 58, 48, 43, 47]
-```
+- **Exercise Type:** [Gym/Running/Yoga/None]
+- **Duration:** 0 minutes
+- **Intensity:** [High/Medium/Low]
+- **Calories Burned:** ~0 kcal
+- **How I felt:** [Energized/Tired/Great]
 
-### Monthly Expenses by Category
+### Sleep
 
-```mermaid
-pie title November Total Expenses
-    "Food" : 520.00
-    "Transport" : 180.00
-    "Entertainment" : 150.00
-    "Utilities" : 120.00
-    "Shopping" : 190.00
-    "Health" : 75.00
-    "Other" : 10.50
-```
+- **Bedtime:** 00:00 AM
+- **Wake Time:** 00:00 AM
+- **Duration:** 0 hours
+- **Quality:** 0/10
+- **Dreams:** [Yes/No - Any notable dreams?]
 
-### Work Hours Performance
+### Nutrition
 
-```mermaid
-bar
-    title Monthly Work Hours Achievement
-    x-axis [Week 1, Week 2, Week 3, Week 4]
-    y-axis "Hours" 0 --> 45
-    bar [40, 42, 39, 38]
-```
+- **Meals:** Breakfast, Lunch, Dinner, Snacks
+- **Water Intake:** 0/8 glasses 💧
+- **Vegetables/Fruits:** [Yes/No]
+- **Junk Food:** [None/Minimal/Moderate]
+- **Alcohol:** [None/Type and quantity]
+- **Overall:** [Healthy/Average/Poor]
 
-### Monthly Mood Trend
+### Mental Health
 
-```mermaid
-line
-    title Monthly Mood Progression
-    x-axis [Week 1, Week 2, Week 3, Week 4]
-    y-axis "Average Mood (1-10)" 4 --> 9
-    line [6.5, 6.8, 6.2, 7.1]
-```
-
-### Monthly Statistics Table
-
-| Category | Amount | % of Total | Daily Avg |
-|----------|--------|-----------|-----------|
-| Food | $520.00 | 41.8% | $17.33 |
-| Transport | $180.00 | 14.5% | $6.00 |
-| Entertainment | $150.00 | 12.0% | $5.00 |
-| Utilities | $120.00 | 9.6% | $4.00 |
-| Shopping | $190.00 | 15.3% | $6.33 |
-| Health | $75.00 | 6.0% | $2.50 |
-| Other | $10.50 | 0.8% | $0.35 |
-| **TOTAL** | **$1,245.50** | **100%** | **$41.52** |
-
-### Work Performance Summary
-
-```mermaid
-bar
-    title Days Meeting Work Target (8 hours)
-    x-axis [Met Target, Below Target, Above Target]
-    y-axis "Days" 0 --> 20
-    bar [18, 2, 10]
-```
+- **Stress Level:** 0/10
+- **Anxiety:** 0/10
+- **Focus:** 0/10
+- **Energy Level:** 0/10
+- **Social Interaction:** [Much/Some/Little/None]
 
 ---
 
-## 🎯 Goals vs Achievements
+## 📚 Learning & Development
 
-### Goal Progress Chart
+### Today's Learning
 
-```mermaid
-bar
-    title Monthly Goals Completion %
-    x-axis [API Project, Reduce Expenses, Work Hours, Exercise, Reading]
-    y-axis "Progress (%)" 0 --> 100
-    bar [100, 65, 95, 70, 40]
-```
+- **Topic:** [What did you learn/study?]
+- **Source:** [Book/Course/YouTube/Mentor/Experience]
+- **Time Spent:** 0 minutes
+- **Key Takeaway:** [Main thing you learned]
 
-### Monthly Goals Status
+### Skills Practiced
 
-- ✅ Complete API integration project - **100%** (Completed)
-- ⏳ Reduce daily expenses to $40/day - **65%** (Current avg: $41.52)
-- ✅ Maintain 8+ hours work daily - **95%** (18/20 days achieved)
-- ⏳ Read 2 technical books - **40%** (1 book completed, halfway through second)
-- ✅ Exercise 4x per week - **70%** (Consistent 3-4 times weekly)
+- [ ] Skill 1 - 0 hours
+- [ ] Skill 2 - 0 hours
+- [ ] Skill 3 - 0 hours
 
-### Key Achievements
-1. ✅ Successfully delivered major project feature
-2. ✅ Improved team collaboration
-3. ✅ Consistent work hours maintained
-4. ✅ Better time management implemented
+### Books/Courses
 
-### Areas for Improvement
-1. ⚠️ Need to budget better on food expenses
-2. ⚠️ Documentation skills need work
-3. ⚠️ Should exercise more regularly
-4. ⚠️ Better morning routine needed
+**Currently Reading:**
+- Book: "[Title]"
+- Progress: 0/300 pages (0%)
+- Rating So Far: 0/10
+
+**Currently Learning:**
+- Course: "[Course Name]"
+- Progress: Week 0 of 10
+- Completion: 0%
 
 ---
 
-## 📊 Comparative Analysis
+## 🎯 Daily Habits Tracker
 
-### Week-over-Week Comparison
+| Habit | Target | Actual | Status |
+|-------|--------|--------|--------|
+| Morning Meditation | 10 min | 0 min | ⏳ |
+| Exercise | 30 min | 0 min | ⏳ |
+| Reading | 30 min | 0 min | ⏳ |
+| Journaling | 15 min | 0 min | ⏳ |
+| Learning | 60 min | 0 min | ⏳ |
+| Water (8 glasses) | 8 | 0 | ⏳ |
+| Healthy Meals | 3 | 0 | ⏳ |
+| Screen Time Limit | <3 hrs | 0 hrs | ⏳ |
 
-```mermaid
-bar
-    title Work Hours: Week-over-Week
-    x-axis [Week 1, Week 2, Week 3, Week 4]
-    y-axis "Hours" 0 --> 50
-    bar [40, 42, 39, 38]
-```
-
-### Expense Trend (Daily Average)
-
-```mermaid
-line
-    title Daily Spending Trend
-    x-axis [Week 1, Week 2, Week 3, Week 4]
-    y-axis "Daily Avg ($)" 35 --> 50
-    line [40.5, 41.2, 38.8, 42.1]
-```
-
-### Productivity vs Mood Correlation
-
-```mermaid
-line
-    title Productivity Score vs Mood
-    x-axis [Week 1, Week 2, Week 3, Week 4]
-    y-axis "Score (1-10)" 4 --> 9
-    line [6.8, 7.2, 6.5, 7.4]
-```
+**Habits Completed Today:** 0/8 (0%)
 
 ---
 
-## 📝 Notes for Next Month
+## 📊 Key Metrics
 
-- Plan December budget more carefully - aim for $40/day average
-- Focus on health and wellness goals - increase exercise to 5x/week
-- Schedule documentation time proactively - dedicate 1 hour daily
-- Review code review process with team
-- Celebrate wins - shipped major feature successfully! 🎉
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Work Hours | 0h | 8h | ⏳ |
+| Daily Expenses | $0.00 | $50.00 | ✅ |
+| Mood | 5/10 | 7/10 | ⏳ |
+| Productivity Score | 0/10 | 8/10 | ⏳ |
+| Tasks Completed | 0/5 | 5/5 | ⏳ |
+| Exercise | 0 min | 30 min | ⏳ |
+| Sleep Hours | 0h | 8h | ⏳ |
+| Learning | 0 min | 60 min | ⏳ |
+| Habits | 0/8 | 8/8 | ⏳ |
+
+**Overall Day Rating: 0/10**
 
 ---
 
-**Last Updated:** November 29, 2025 | **Created by:** Daily Life Tracker
+## 🔮 Tomorrow's Plan
+
+### Top 3 Priorities
+1. [Most important task]
+2. [Second priority]
+3. [Third priority]
+
+### Schedule
+- 09:00 - [Activity]
+- 10:00 - [Activity]
+- 14:00 - [Activity]
+- 18:00 - [Activity]
+
+### Reminders
+- [ ] [Important reminder 1]
+- [ ] [Important reminder 2]
 
 ---
 
-## 📌 How to Use This Template
-
-1. **Daily Entry:** Fill in expenses, work hours, and journal entry
-2. **Update Mermaid Charts:** Replace data in chart code blocks
-3. **Weekly Review:** Update weekly summary sections
-4. **Monthly Review:** Update monthly overview at end of month
-5. **Commit to GitHub:** Push updates daily/weekly
-
-**File naming:** `2025-11-29.md` or organize by month as `2025-11.md`
+**Entry Created:** [Date & Time]  
+**Last Updated:** [Date & Time]
